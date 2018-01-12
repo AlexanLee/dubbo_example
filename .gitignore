@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+dubbo.iml
+.settings
+dubbo_api/target
+dubbo_api/dubbo_api.iml
+dubbo_customer/target
+dubbo_customer/dubbo_customer.iml
+dubbo_customer/.settings
+dubbo_provider/.settings
+dubbo_provider/dubbo_provider.iml
+dubbo_service/.settings
+dubbo_service/dubbo_service.iml
+dubbo_service/target
+dubbo_provider/target
